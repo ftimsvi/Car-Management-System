@@ -55,9 +55,3 @@ make
 Student at IUT  
 Course: Advanced Programming  
 Semester: Spring 2021-2022
-
----
-
-## 📄 License
-
-This project is licensed for educational and personal use. Feel free to use and modify.
