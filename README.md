@@ -2,8 +2,6 @@
 
 This project is a **C++17 Qt-based desktop application** for managing car information with user authentication, brand-specific management features, and a GUI designed using Qt Designer. The system supports both **user** and **admin** roles, each with dedicated access and interface functionalities.
 
----
-
 ## 🎯 Features
 
 - 🔐 **User Authentication System**  
@@ -22,3 +20,10 @@ This project is a **C++17 Qt-based desktop application** for managing car inform
 
 - 🔒 **Role-Based Access Control**  
   - Separated interfaces for users and administrators
+
+## 🛠 Technologies Used
+
+- **C++17**
+- **Qt 5 Framework**
+  - Qt Core, GUI, and Widgets modules
+- **Qt Designer** for UI development (`.ui` files)
