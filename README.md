@@ -44,7 +44,8 @@ This project is a **C++17 Qt-based desktop application** for managing car inform
 ```bash
 qmake Project.pro
 make
-./CarManagementSystem```
+./CarManagementSystem
+```
 
 ---
 
